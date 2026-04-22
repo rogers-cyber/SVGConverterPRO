@@ -9,6 +9,13 @@ SVG Converter PRO emphasizes performance, simplicity, and flexibility while prov
 This edition focuses on UI responsiveness, multi-threaded performance, modern design, and expanded SVG processing capabilities.
 
 ------------------------------------------------------------
+PREVIEW
+------------------------------------------------------------
+
+<img alt="SVG Converter PRO" src="https://github.com/rogers-cyber/SVGConverterPRO/blob/main/SVGConverter%20-%20Log%20SVG%20to%20ICON.jpg" />
+<img alt="SVG Converter PRO" src="https://github.com/rogers-cyber/SVGConverterPRO/blob/main/SVGConverter%20-%20Live%20and%20Log%20SVG%20to%20PDF.jpg" />
+
+------------------------------------------------------------
 DISTRIBUTION
 ------------------------------------------------------------
 
