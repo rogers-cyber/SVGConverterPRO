@@ -12,6 +12,7 @@ This edition focuses on UI responsiveness, multi-threaded performance, modern de
 PREVIEW
 ------------------------------------------------------------
 
+<img alt="SVG Converter PRO" src="https://github.com/rogers-cyber/SVGConverterPRO/blob/main/SVGConverter%20-%20Main%20Interface.jpg" />
 <img alt="SVG Converter PRO" src="https://github.com/rogers-cyber/SVGConverterPRO/blob/main/SVGConverter%20-%20Log%20SVG%20to%20ICON.jpg" />
 <img alt="SVG Converter PRO" src="https://github.com/rogers-cyber/SVGConverterPRO/blob/main/SVGConverter%20-%20Live%20and%20Log%20SVG%20to%20PDF.jpg" />
 
